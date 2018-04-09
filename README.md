@@ -9,5 +9,6 @@
 汽車資料庫下載工具 : https://github.com/YuHuangPu/Car-Crawler
 
 示範影片 : https://youtu.be/k_MTri9I8bU
+![image](https://github.com/YuHuangPu/AnalyzeCar/blob/master/example.PNG)
 
 Ziv.Huang 2018-04-09
