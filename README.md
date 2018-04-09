@@ -1,14 +1,14 @@
 # AnalyzeCar
 
 
-ÀR©y¤j¾Ç°]°È»P­pºâ¼Æ¾Ç¨t²Ä15¬É¦¨ªG®i
-°Ñ»P§@«~ : ¥ş¤è¦ì¨T¨®¤ÀªR
-¨Ï¥ÎJAVA»s§@UI, MySql°µDB, R»y¨¥¬°¤ÀªR¤Îµe¹Ï¤u¨ã
-³Ì«á½s¿è®É¶¡ : 2016-05-11
+éœå®œå¤§å­¸è²¡å‹™èˆ‡è¨ˆç®—æ•¸å­¸ç³»ç¬¬15ç•Œæˆæœå±•<br>
+åƒèˆ‡ä½œå“ : å…¨æ–¹ä½æ±½è»Šåˆ†æ<br>
+ä½¿ç”¨JAVAè£½ä½œUI, MySqlåšDB, Rèªè¨€ç‚ºåˆ†æåŠç•«åœ–å·¥å…·<br>
+æœ€å¾Œç·¨è¼¯æ™‚é–“ : 2016-05-11<br>
 
-¨T¨®¸ê®Æ®w¤U¸ü¤u¨ã : https://github.com/YuHuangPu/Car-Crawler
+æ±½è»Šè³‡æ–™åº«ä¸‹è¼‰å·¥å…· : https://github.com/YuHuangPu/Car-Crawler
 
-¥Ü½d¼v¤ù : https://youtu.be/k_MTri9I8bU
+ç¤ºç¯„å½±ç‰‡ : https://youtu.be/k_MTri9I8bU
 ![image](https://github.com/YuHuangPu/AnalyzeCar/blob/master/example.PNG)
 
 Ziv.Huang 2018-04-09
