@@ -39,8 +39,7 @@ public class Connect {
 	private boolean ConnectMysql(){
 		 try{
 		     Class.forName("com.mysql.jdbc.Driver");
-		     //conDB = DriverManager.getConnection("jdbc:mysql://localhost:8888/mydataofcar","root","");
-		     conDB = DriverManager.getConnection("jdbc:mysql://localhost:8888/mydataofcar","useryu","math1s@201");
+		     conDB = DriverManager.getConnection("jdbc:mysql://localhost:3306/mydataofcar?useUnicode=true&characterEncoding=utf-8","root","");
 		     isConnect = true ;
 		     return true ;
 		 }
